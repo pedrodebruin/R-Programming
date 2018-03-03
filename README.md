@@ -9,7 +9,8 @@ The file rmarkdown-2.0 contains a markdown cheatsheet
 The file rstudio-ide contains a markdown cheatsheet
 
 ## Helpful documentation
-https://www.rdocumentation.org/
-https://www.r-project.org/other-docs.html
-https://leanpub.com/rprogramming
+* https://en.support.wordpress.com/markdown-quick-reference/
+* https://www.rdocumentation.org/
+* https://www.r-project.org/other-docs.html
+* https://leanpub.com/rprogramming
 
