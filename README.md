@@ -14,3 +14,13 @@ The file rstudio-ide contains a markdown cheatsheet
 * https://www.r-project.org/other-docs.html
 * https://leanpub.com/rprogramming
 
+## SWIRL
+
+SWIRL is an R package that has helpful exercises to help learn the basics of R, as well
+as statistical inference and regression models.
+
+To run in Rstudio, do:
+* install.packages("swirl")
+* library(swirl)
+swirl()
+
