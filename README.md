@@ -8,6 +8,10 @@ Use the sample table hw1_data to quickly test R functions you're unfamiliar with
 The file rmarkdown-2.0 contains a markdown cheatsheet  
 The file rstudio-ide contains a markdown cheatsheet
 
+## Lectures and Reading Material
+The folder lectures contains mostly slides but also helpful reading material concerning R.
+
+
 ## Helpful documentation
 * https://en.support.wordpress.com/markdown-quick-reference/
 * https://www.rdocumentation.org/
@@ -22,5 +26,5 @@ as statistical inference and regression models.
 To run in Rstudio, do:
 * install.packages("swirl")
 * library(swirl)
-swirl()
+* swirl()
 
