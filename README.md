@@ -28,3 +28,12 @@ To run in Rstudio, do:
 * library(swirl)
 * swirl()
 
+## Reading XMLs:
+Useful links that teach how to handle xml files:
+* https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/XML.pdf
+* http://www.omegahat.net/RSXML/ 
+
+
+## Readign JSON:
+* http://www.json.org
+* https://www.r-bloggers.com/new-package-jsonlite-a-smarter-json-encoderdecoder/
