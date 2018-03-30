@@ -34,6 +34,6 @@ Useful links that teach how to handle xml files:
 * http://www.omegahat.net/RSXML/ 
 
 
-## Readign JSON:
+## Reading JSON:
 * http://www.json.org
 * https://www.r-bloggers.com/new-package-jsonlite-a-smarter-json-encoderdecoder/
